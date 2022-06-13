@@ -1,6 +1,6 @@
 # Python-Password_Manager
 Manage your all password in one file through this python program, which provide you GUI support and save your all password, email id and website info.
-
+![](images/logo.png)
 
 ## Setup
 before you run main.py please install required python and it library 'pyperclip' so there will no error.
