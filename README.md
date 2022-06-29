@@ -29,4 +29,6 @@ Reach out me if there is any bug in my github account : https://github.com/Visu9
 
 Thank you!
 
+You can suggest for new features ideas to improve application
+
 ENJOY and save your password in password manager😁😊
